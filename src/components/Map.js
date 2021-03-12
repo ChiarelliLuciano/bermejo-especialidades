@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import { GoogleMap, LoadScript } from "@react-google-maps/api";
 import { Marker } from "@react-google-maps/api";
-import Credentials from "./Credentials";
 
 const containerStyle = {
   width: "90%",
@@ -17,7 +16,7 @@ const center = {
 class Map extends Component {
   render() {
     return (
-      <LoadScript googleMapsApiKey={`${Credentials.APIKEY}`}>
+      <LoadScript googleMapsApiKey={`${process.env.REACT_APP_APIKEY}`}>
         <GoogleMap mapContainerStyle={containerStyle} center={center} zoom={18}>
           {/* Child components, such as markers, info windows, etc. */}
           <>
