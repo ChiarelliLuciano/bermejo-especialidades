@@ -1,12 +1,14 @@
 # Bermejo Especialidades SRL
 
+---
 ### [Live Site](https://bermejoespecialidades.netlify.app/)
+---
 
 ![Bermejo](https://github.com/ChiarelliLuciano/bermejo-especialidades/blob/main/public/bermejo-especialidades.png)
 
 ## Introducción
 
-Página web diseñada para Bermejo Hermanos SRL (actualmente en etapa de producción). Este sitio nació como un proyecto final de un curso de ReactJS donde la propuesta era que cada alumno recreara una página web desactualizada reparando sus errores y añadiendo nuevas funcionalidades. 
+Landing Page diseñada en base a la de [Bermejo Hermanos SRL](http://bermejo.com.ar/). Este sitio nació como un proyecto final de un curso de ReactJS donde la propuesta era que cada alumno recreara una página web desactualizada reparando sus errores, mejorando su diseño y añadiendo nuevas funcionalidades. 
 
 Hosteado en Netlify.
 
