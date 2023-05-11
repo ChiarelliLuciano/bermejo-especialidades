@@ -1,7 +1,10 @@
 # Bermejo Especialidades SRL
 
----
-### [Live Site](https://bermejoespecialidades.netlify.app/)
+## Deploy
+<a href="https://bermejoespecialidades.netlify.app/">
+   <img src="https://img.shields.io/badge/Hosted%20by-Netlify-blueviolet?style=for-the-badge&logo=netlify" alt="Hosted by Netlify" />
+</a>
+
 ---
 
 ![Bermejo](https://github.com/ChiarelliLuciano/bermejo-especialidades/blob/main/public/bermejo-especialidades.png)
